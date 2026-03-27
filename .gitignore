@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PKL tracked by DVC not Git
+models/ner_model.pkl
+
+# DVC cache
+.dvc/cache/
+.dvc/tmp/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets
+.env
+/tmp/gdrive.json
+
+# History
+.history/

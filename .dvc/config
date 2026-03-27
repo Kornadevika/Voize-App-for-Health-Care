@@ -1,0 +1,5 @@
+[core]
+    remote = gdrive
+
+[remote "gdrive"]
+    url = gdrive://YOUR_GDRIVE_FOLDER_ID

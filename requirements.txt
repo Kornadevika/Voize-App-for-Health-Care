@@ -1,0 +1,26 @@
+# ML
+torch==2.1.2
+transformers==4.37.2
+numpy==1.26.3
+
+# Audio
+librosa==0.10.1
+soundfile==0.12.1
+
+# API
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+
+# UI
+streamlit==1.31.0
+requests==2.31.0
+
+# # DVC
+# dvc==3.38.1
+# dvc[gdrive]==3.38.1
+
+# Testing
+pytest==7.4.4
+httpx==0.26.0
